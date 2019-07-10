@@ -1,0 +1,4 @@
+{
+  "mongoConn": "mongodb+srv://kenharis:humber@cluster0-ffgao.mongodb.net/TaskApp?retryWrites=true",
+  "jwtSecret": "secret"
+}
